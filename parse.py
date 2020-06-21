@@ -1,13 +1,16 @@
-import os
 import json
+import os
+
 
 # script #1
 # parse table copied from Wiki into json
+# generally this must be done only once
 
 def extract(link):
-   link = link.replace("[[", "").replace("]]", "")
-   link = link.split("|")[-1]
-   return link
+    link = link.replace("[[", "").replace("]]", "")
+    link = link.split("|")[-1]
+    return link
+
 
 def clean(row):
     if not row[0] == "|":
@@ -18,10 +21,8 @@ def clean(row):
     row = row.replace("*", "")
     row = row.replace("†", "")
     # parsing
-    while True:
-        if row.find("[[") == -1:
-            break
-        part = row[row.find("[["):row.find("]]")+2]
+    while row.find("[[") >= 0:
+        part = row[row.find("[["):row.find("]]") + 2]
         txt = extract(part)
         row = row.replace(part, txt)
     return row
@@ -38,7 +39,7 @@ with open("resources/ingredients-table.txt", "r") as f:
         if sep == None or sep == "":
             break
         if sep != "|-\n":
-            raise Exception("Expected new table row, but got: " + sep + "at row number " + str(counter) )
+            raise Exception("Expected new table row, but got: " + sep + "at row number " + str(counter))
         row["name"] = clean(f.readline())
         row["effects"] = [clean(f.readline()), clean(f.readline()), clean(f.readline()), clean(f.readline())]
         row["weight"] = clean(f.readline())

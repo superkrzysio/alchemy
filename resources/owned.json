@@ -1,158 +1,80 @@
 [
   {
-    "name": "Nightshade",
-    "effects": [],
-    "weight": "0.1",
-    "value": "8",
-    "obtained": "Graveyards, undead areas",
-    "rarity": "",
-    "owned": 19
-  },
-  {
-    "name": "Taproot",
+    "name": "Hanging Moss",
     "effects": [
-      "Weakness to Magic"
+      "Damage Magicka Regen"
     ],
-    "weight": "0.5",
-    "value": "15",
-    "obtained": "Spriggan",
+    "weight": "0.3",
+    "value": "1",
+    "obtained": "Vegetated areas, hanging in caves, from buildings",
     "rarity": "",
-    "owned": 11
+    "owned": 8
   },
   {
-    "name": "Giant Lichen",
+    "name": "Slaughterfish Egg",
     "effects": [
-      "Weakness to Poison",
+      "Fortify Stamina"
+    ],
+    "weight": "0.2",
+    "value": "3",
+    "obtained": "Underwater",
+    "rarity": "",
+    "owned": 12
+  },
+  {
+    "name": "Human Flesh",
+    "effects": [
       "Restore Magicka"
     ],
     "weight": "0.3",
-    "value": "5",
-    "obtained": "Swamps",
-    "rarity": "",
-    "owned": 10
-  },
-  {
-    "name": "Creep Cluster",
-    "effects": [
-      "Weakness to Magic",
-      "Fortify Carry Weight"
-    ],
-    "weight": "0.2",
     "value": "1",
-    "obtained": "Hydro-thermal areas",
+    "obtained": "Falmer Vampire dens",
     "rarity": "",
     "owned": 16
   },
   {
-    "name": "Swamp Fungal Pod",
-    "effects": [
-      "Restore Health",
-      "Lingering Damage Magicka",
-      "Resist Shock"
-    ],
-    "weight": "0.3",
-    "value": "5",
-    "obtained": "Swamps",
+    "name": "Giant's Toe",
+    "effects": [],
+    "weight": "1",
+    "value": "20",
+    "obtained": "Giants",
     "rarity": "",
-    "owned": 24
+    "owned": 8
   },
   {
-    "name": "Spawn Ash",
+    "name": "Nightshade",
     "effects": [
-      "Fortify Enchanting"
+      "Damage Health"
     ],
     "weight": "0.1",
-    "value": "20",
-    "obtained": "Ash Spawn",
+    "value": "8",
+    "obtained": "Graveyards, undead areas",
     "rarity": "",
-    "owned": 6
+    "owned": 2
   },
   {
-    "name": "Ash Creep Cluster",
+    "name": "Silverside Perch",
     "effects": [
-      "Resist Fire"
+      "Ravage Health",
+      "Damage Stamina Regen",
+      "Restore Stamina"
     ],
     "weight": "0.3",
-    "value": "20",
-    "obtained": "Harvested from ash covered areas of Solstheim",
-    "rarity": "",
-    "owned": 7
-  },
-  {
-    "name": "Fire Salts",
-    "effects": [
-      "Weakness to Frost"
-    ],
-    "weight": "0.3",
-    "value": "50",
-    "obtained": "Flame Atronach",
-    "rarity": "",
-    "owned": 10
-  },
-  {
-    "name": "Skeever Tail",
-    "effects": [
-      "Fortify Light Armor"
-    ],
-    "weight": "0.2",
-    "value": "3",
-    "obtained": "Skeever",
-    "rarity": "",
-    "owned": 6
-  },
-  {
-    "name": "Chicken's Egg",
-    "effects": [
-      "Damage Magicka Regen",
-      "Resist Magic",
-      "Waterbreathing"
-    ],
-    "weight": "0.5",
-    "value": "2",
-    "obtained": "Chicken's Nest",
+    "value": "15",
+    "obtained": "Lakes, rivers, streams and fish barrels",
     "rarity": "",
     "owned": 11
   },
   {
-    "name": "Briar Heart",
+    "name": "River Betty",
     "effects": [
-      "Fortify Magicka",
-      "Paralysis"
+      "Fortify Carry Weight"
     ],
-    "weight": "0.5",
-    "value": "20",
-    "obtained": "Forsworn Leaders",
-    "rarity": "",
-    "owned": 20
-  },
-  {
-    "name": "Bone Meal",
-    "effects": [],
-    "weight": "0.5",
-    "value": "5",
-    "obtained": "Draugr and skeletons",
-    "rarity": "",
-    "owned": 6
-  },
-  {
-    "name": "Slaughterfish Scales",
-    "effects": [
-      "Fortify Heavy Armor"
-    ],
-    "weight": "0.1",
-    "value": "3",
-    "obtained": "Slaughterfish",
-    "rarity": "",
-    "owned": 4
-  },
-  {
-    "name": "Garlic",
-    "effects": [],
     "weight": "0.3",
-    "value": "1",
-    "obtained": "Hanging in homes, businesses and cooking areas",
+    "value": "15",
+    "obtained": "Lakes, rivers, streams and fish barrels",
     "rarity": "",
-    "owned": 2
+    "owned": 15
   },
   {
     "name": "Spriggan Sap",
@@ -161,73 +83,237 @@
     "value": "15",
     "obtained": "Spriggan",
     "rarity": "",
-    "owned": 12
-  },
-  {
-    "name": "Ice Wraith Teeth",
-    "effects": [],
-    "weight": "0.3",
-    "value": "30",
-    "obtained": "Ice Wraith",
-    "rarity": "",
-    "owned": 4
-  },
-  {
-    "name": "White Cap",
-    "effects": [
-      "Weakness to Frost"
-    ],
-    "weight": "0.3",
-    "value": "0",
-    "obtained": "Mushroom clusters near caves or dungeons",
-    "rarity": "",
-    "owned": 13
-  },
-  {
-    "name": "Small Antlers",
-    "effects": [
-      "Lingering Damage Stamina",
-      "Fortify Restoration"
-    ],
-    "weight": "0.1",
-    "value": "2",
-    "obtained": "Elk",
-    "rarity": "",
     "owned": 5
   },
   {
-    "name": "Hagraven Claw",
+    "name": "Tundra Cotton",
     "effects": [],
-    "weight": "0.3",
-    "value": "20",
-    "obtained": "Hagraven",
+    "weight": "0.1",
+    "value": "1",
+    "obtained": "High mountains below snow line, tundra",
     "rarity": "",
-    "owned": 10
+    "owned": 3
   },
   {
-    "name": "Berit's Ashes",
+    "name": "Elves Ear",
     "effects": [
-      "Damage Stamina",
-      "Resist Fire",
-      "Fortify Conjuration"
+      "Weakness to Frost",
+      "Resist Fire"
     ],
-    "weight": "0.5",
-    "value": "5",
-    "obtained": "Quest item given by Thadgeir; also found in Valerica's Study in Castle Volkihar.",
+    "weight": "0.1",
+    "value": "10",
+    "obtained": "Plant, hanging herbs",
+    "rarity": "",
+    "owned": 14
+  },
+  {
+    "name": "Salt Pile",
+    "effects": [
+      "Fortify Restoration",
+      "Weakness to Magic",
+      "Slow"
+    ],
+    "weight": "0.2",
+    "value": "2",
+    "obtained": "Merchants, containers, near cooking places",
+    "rarity": "",
+    "owned": 12
+  },
+  {
+    "name": "Sabre Cat Tooth",
+    "effects": [],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Sabre Cat, Snowy Sabre Cat",
     "rarity": "",
     "owned": 7
   },
   {
-    "name": "Felsaad Tern Feathers",
+    "name": "Giant Lichen",
     "effects": [
-      "Cure Disease",
-      "Fortify Light Armor"
+      "Weakness to Shock",
+      "Restore Magicka",
+      "Ravage Health"
     ],
-    "weight": "0.1",
-    "value": "15",
-    "obtained": "Felsaad Tern",
+    "weight": "0.3",
+    "value": "5",
+    "obtained": "Swamps",
+    "rarity": "",
+    "owned": 6
+  },
+  {
+    "name": "Glow Dust",
+    "effects": [],
+    "weight": "0.5",
+    "value": "20",
+    "obtained": "Wispmother",
     "rarity": "",
     "owned": 12
+  },
+  {
+    "name": "Large Antlers",
+    "effects": [
+      "Damage Stamina Regen",
+      "Fortify Stamina"
+    ],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Deer, Elk",
+    "rarity": "",
+    "owned": 10
+  },
+  {
+    "name": "Eye of Sabre Cat",
+    "effects": [
+      "Restore Stamina"
+    ],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Sabre Cat, Snowy Sabre Cat",
+    "rarity": "",
+    "owned": 12
+  },
+  {
+    "name": "Creep Cluster",
+    "effects": [],
+    "weight": "0.2",
+    "value": "1",
+    "obtained": "Hydro-thermal areas",
+    "rarity": "",
+    "owned": 7
+  },
+  {
+    "name": "Ashen Grass Pod",
+    "effects": [
+      "Weakness to Shock"
+    ],
+    "weight": "0.1",
+    "value": "1",
+    "obtained": "Harvested from ash covered areas of Solstheim",
+    "rarity": "",
+    "owned": 14
+  },
+  {
+    "name": "Fire Salts",
+    "effects": [
+      "Restore Magicka"
+    ],
+    "weight": "0.3",
+    "value": "50",
+    "obtained": "Flame Atronach",
+    "rarity": "",
+    "owned": 28
+  },
+  {
+    "name": "Falmer Ear",
+    "effects": [
+      "Fortify Lockpicking"
+    ],
+    "weight": "0.2",
+    "value": "10",
+    "obtained": "Falmer",
+    "rarity": "",
+    "owned": 6
+  },
+  {
+    "name": "Chicken's Egg",
+    "effects": [
+      "Waterbreathing",
+      "Lingering Damage Stamina",
+      "Resist Magic"
+    ],
+    "weight": "0.5",
+    "value": "2",
+    "obtained": "Chicken's Nest",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "Blue Dartwing",
+    "effects": [
+      "Resist Shock",
+      "Restore Health",
+      "Fear"
+    ],
+    "weight": "0.1",
+    "value": "1",
+    "obtained": "Hovering above water",
+    "rarity": "",
+    "owned": 3
+  },
+  {
+    "name": "Chaurus Eggs",
+    "effects": [
+      "Damage Magicka",
+      "Fortify Stamina"
+    ],
+    "weight": "0.2",
+    "value": "10",
+    "obtained": "Falmer caves",
+    "rarity": "",
+    "owned": 7
+  },
+  {
+    "name": "Moon Sugar",
+    "effects": [
+      "Resist Frost",
+      "Weakness to Fire",
+      "Restore Magicka"
+    ],
+    "weight": "0.3",
+    "value": "50",
+    "obtained": "Khajiit Caravans",
+    "rarity": "",
+    "owned": 3
+  },
+  {
+    "name": "Ectoplasm",
+    "effects": [
+      "Fortify Destruction",
+      "Damage Health"
+    ],
+    "weight": "0.1",
+    "value": "25",
+    "obtained": "Ghostlike creatures",
+    "rarity": "",
+    "owned": 11
+  },
+  {
+    "name": "Bear Claws",
+    "effects": [
+      "Fortify One-Handed",
+      "Fortify Health"
+    ],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Bears, Cave Bears, Snow Bears",
+    "rarity": "",
+    "owned": 19
+  },
+  {
+    "name": "Hagraven Feathers",
+    "effects": [
+      "Damage Magicka",
+      "Weakness to Shock"
+    ],
+    "weight": "0.1",
+    "value": "20",
+    "obtained": "Hagraven",
+    "rarity": "",
+    "owned": 5
+  },
+  {
+    "name": "Juniper Berries",
+    "effects": [
+      "Weakness to Fire",
+      "Regenerate Health",
+      "Fortify Marksman"
+    ],
+    "weight": "0.1",
+    "value": "1",
+    "obtained": "Juniper Trees",
+    "rarity": "",
+    "owned": 6
   },
   {
     "name": "Daedra Heart",
@@ -236,89 +322,240 @@
     "value": "250",
     "obtained": "Daedra",
     "rarity": "",
-    "owned": 23
+    "owned": 5
+  },
+  {
+    "name": "Ancestor Moth Wing",
+    "effects": [],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Ancestor Glade",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "Pine Thrush Egg",
+    "effects": [
+      "Restore Stamina",
+      "Resist Shock"
+    ],
+    "weight": "0.5",
+    "value": "2",
+    "obtained": "Nests in forests",
+    "rarity": "",
+    "owned": 7
+  },
+  {
+    "name": "Scaly Pholiota",
+    "effects": [
+      "Regenerate Stamina"
+    ],
+    "weight": "0.3",
+    "value": "4",
+    "obtained": "Dead birch trees",
+    "rarity": "",
+    "owned": 17
+  },
+  {
+    "name": "Boar Tusk",
+    "effects": [
+      "Fortify Stamina",
+      "Fortify Block"
+    ],
+    "weight": "0.5",
+    "value": "20",
+    "obtained": "Tusked Bristlebacks",
+    "rarity": "",
+    "owned": 3
+  },
+  {
+    "name": "Torchbug Thorax",
+    "effects": [],
+    "weight": "0.1",
+    "value": "1",
+    "obtained": "Torchbugs, glowing at night",
+    "rarity": "",
+    "owned": 3
+  },
+  {
+    "name": "Canis Root",
+    "effects": [],
+    "weight": "0.1",
+    "value": "5",
+    "obtained": "Near rocky areas",
+    "rarity": "",
+    "owned": 17
+  },
+  {
+    "name": "Berit's Ashes",
+    "effects": [
+      "Fortify Conjuration",
+      "Ravage Stamina"
+    ],
+    "weight": "0.5",
+    "value": "5",
+    "obtained": "Quest item given by Thadgeir; also found in Valerica's Study in Castle Volkihar.",
+    "rarity": "",
+    "owned": 15
+  },
+  {
+    "name": "Cyrodilic Spadetail",
+    "effects": [
+      "Ravage Health",
+      "Fear"
+    ],
+    "weight": "0.3",
+    "value": "15",
+    "obtained": "Lakes, rivers, streams, fish barrels",
+    "rarity": "",
+    "owned": 5
+  },
+  {
+    "name": "Ash Creep Cluster",
+    "effects": [],
+    "weight": "0.3",
+    "value": "20",
+    "obtained": "Harvested from ash covered areas of Solstheim",
+    "rarity": "",
+    "owned": 8
+  },
+  {
+    "name": "Luna Moth Wing",
+    "effects": [
+      "Damage Magicka",
+      "Invisibility",
+      "Fortify Light Armor"
+    ],
+    "weight": "0.1",
+    "value": "5",
+    "obtained": "Luna Moth",
+    "rarity": "",
+    "owned": 4
+  },
+  {
+    "name": "Namira's Rot",
+    "effects": [
+      "Damage Magicka",
+      "Fortify Lockpicking"
+    ],
+    "weight": "0.3",
+    "value": "0",
+    "obtained": "Caves",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "Slaughterfish Scales",
+    "effects": [
+      "Resist Frost",
+      "Fortify Block"
+    ],
+    "weight": "0.1",
+    "value": "3",
+    "obtained": "Slaughterfish",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "Blue Butterfly Wing",
+    "effects": [],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Blue Butterfly",
+    "rarity": "",
+    "owned": 16
   },
   {
     "name": "Fly Amanita",
     "effects": [
-      "Resist Fire",
-      "Fortify Two-Handed",
       "Frenzy"
     ],
     "weight": "0.1",
     "value": "2",
     "obtained": "Mushroom clusters in and around caves",
     "rarity": "",
-    "owned": 2
-  },
-  {
-    "name": "Mudcrab Chitin",
-    "effects": [
-      "Resist Fire",
-      "Restore Stamina",
-      "Cure Disease"
-    ],
-    "weight": "0.3",
-    "value": "2",
-    "obtained": "Mudcrabs",
-    "rarity": "",
-    "owned": 15
-  },
-  {
-    "name": "Abecean Longfin",
-    "effects": [
-      "Weakness to Frost",
-      "Fortify Sneak",
-      "Fortify Restoration"
-    ],
-    "weight": "0.5",
-    "value": "15",
-    "obtained": "Lakes, rivers, streams, fish barrels",
-    "rarity": "",
-    "owned": 1
-  },
-  {
-    "name": "Torchbug Thorax",
-    "effects": [
-      "Weakness to Magic",
-      "Lingering Damage Magicka",
-      "Fortify Stamina"
-    ],
-    "weight": "0.1",
-    "value": "1",
-    "obtained": "Torchbugs, glowing at night",
-    "rarity": "",
-    "owned": 7
-  },
-  {
-    "name": "Hawk Beak",
-    "effects": [],
-    "weight": "0.3",
-    "value": "15",
-    "obtained": "Hawks",
-    "rarity": "",
-    "owned": 11
-  },
-  {
-    "name": "Butterfly Wing",
-    "effects": [
-      "Restore Health",
-      "Damage Magicka"
-    ],
-    "weight": "0.1",
-    "value": "3",
-    "obtained": "Monarch Butterfly",
-    "rarity": "",
-    "owned": 13
+    "owned": 10
   },
   {
     "name": "Nordic Barnacle",
-    "effects": [],
+    "effects": [
+      "Fortify Pickpocket"
+    ],
     "weight": "0.2",
     "value": "5",
     "obtained": "Underwater",
     "rarity": "",
     "owned": 8
+  },
+  {
+    "name": "Hawk Beak",
+    "effects": [
+      "Resist Frost",
+      "Resist Shock"
+    ],
+    "weight": "0.3",
+    "value": "15",
+    "obtained": "Hawks",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "Taproot",
+    "effects": [
+      "Weakness to Magic",
+      "Restore Magicka",
+      "Fortify Illusion"
+    ],
+    "weight": "0.5",
+    "value": "15",
+    "obtained": "Spriggan",
+    "rarity": "",
+    "owned": 20
+  },
+  {
+    "name": "Small Pearl",
+    "effects": [
+      "Fortify One-Handed",
+      "Restore Stamina"
+    ],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Pearl Oyster",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "Dwarven Oil",
+    "effects": [
+      "Fortify Illusion"
+    ],
+    "weight": "0.3",
+    "value": "15",
+    "obtained": "Dwemer Ruins",
+    "rarity": "",
+    "owned": 14
+  },
+  {
+    "name": "Troll Fat",
+    "effects": [
+      "Fortify Two-Handed"
+    ],
+    "weight": "1",
+    "value": "15",
+    "obtained": "Trolls",
+    "rarity": "",
+    "owned": 12
+  },
+  {
+    "name": "Garlic",
+    "effects": [
+      "Fortify Stamina"
+    ],
+    "weight": "0.3",
+    "value": "1",
+    "obtained": "Hanging in homes, businesses and cooking areas",
+    "rarity": "",
+    "owned": 22
   },
   {
     "name": "Jazbay Grapes",
@@ -330,47 +567,207 @@
     "owned": 3
   },
   {
-    "name": "Imp Stool",
+    "name": "Charred Skeever Hide",
     "effects": [],
-    "weight": "0.3",
-    "value": "0",
-    "obtained": "Mushroom clusters near caves or dungeons",
+    "weight": "0.5",
+    "value": "1",
+    "obtained": "Found at campfires",
+    "rarity": "",
+    "owned": 20
+  },
+  {
+    "name": "Dragon's Tongue",
+    "effects": [],
+    "weight": "0.1",
+    "value": "5",
+    "obtained": "Hydro-thermal areas",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "Thistle Branch",
+    "effects": [
+      "Resist Frost",
+      "Ravage Stamina",
+      "Resist Poison"
+    ],
+    "weight": "0.1",
+    "value": "1",
+    "obtained": "Thistle Plant",
+    "rarity": "",
+    "owned": 4
+  },
+  {
+    "name": "Salmon Roe",
+    "effects": [
+      "Restore Stamina"
+    ],
+    "weight": "0.2",
+    "value": "5",
+    "obtained": "Salmon jumping up falls, Kitchen of a Homestead",
+    "rarity": "",
+    "owned": 8
+  },
+  {
+    "name": "Hawk Feathers",
+    "effects": [],
+    "weight": "0.1",
+    "value": "15",
+    "obtained": "Hawks",
+    "rarity": "",
+    "owned": 11
+  },
+  {
+    "name": "Glowing Mushroom",
+    "effects": [
+      "Resist Shock",
+      "Fortify Health",
+      "Fortify Destruction"
+    ],
+    "weight": "0.2",
+    "value": "5",
+    "obtained": "Caves, Dwemer Ruins",
     "rarity": "",
     "owned": 7
   },
   {
-    "name": "Nirnroot",
+    "name": "Bee",
     "effects": [
-      "Resist Magic",
-      "Damage Stamina"
-    ],
-    "weight": "0.2",
-    "value": "10",
-    "obtained": "Near water",
-    "rarity": "",
-    "owned": 3
-  },
-  {
-    "name": "Hagraven Feathers",
-    "effects": [
-      "Damage Magicka"
+      "Regenerate Stamina",
+      "Ravage Stamina"
     ],
     "weight": "0.1",
-    "value": "20",
-    "obtained": "Hagraven",
+    "value": "3",
+    "obtained": "Beehive",
+    "rarity": "",
+    "owned": 9
+  },
+  {
+    "name": "Bone Meal",
+    "effects": [
+      "Fortify Conjuration",
+      "Ravage Stamina"
+    ],
+    "weight": "0.5",
+    "value": "5",
+    "obtained": "Draugr and skeletons",
+    "rarity": "",
+    "owned": 14
+  },
+  {
+    "name": "Histcarp",
+    "effects": [
+      "Waterbreathing"
+    ],
+    "weight": "0.3",
+    "value": "6",
+    "obtained": "Lakes, rivers, streams and fish barrels",
     "rarity": "",
     "owned": 6
   },
   {
-    "name": "Giant's Toe",
+    "name": "Spider Egg",
     "effects": [
-      "Damage Stamina Regen"
+      "Fortify Marksman"
     ],
-    "weight": "1",
-    "value": "20",
-    "obtained": "Giants",
+    "weight": "0.2",
+    "value": "5",
+    "obtained": "Spider lairs",
     "rarity": "",
-    "owned": 7
+    "owned": 15
+  },
+  {
+    "name": "Ice Wraith Teeth",
+    "effects": [
+      "Weakness to Frost"
+    ],
+    "weight": "0.3",
+    "value": "30",
+    "obtained": "Ice Wraith",
+    "rarity": "",
+    "owned": 5
+  },
+  {
+    "name": "Void Salts",
+    "effects": [
+      "Damage Health"
+    ],
+    "weight": "0.2",
+    "value": "125",
+    "obtained": "Storm Atronach",
+    "rarity": "",
+    "owned": 3
+  },
+  {
+    "name": "Frost Mirriam",
+    "effects": [],
+    "weight": "0.1",
+    "value": "1",
+    "obtained": "Hanging in homes, businesses and giant camps",
+    "rarity": "",
+    "owned": 14
+  },
+  {
+    "name": "Spawn Ash",
+    "effects": [
+      "Resist Fire",
+      "Ravage Magicka"
+    ],
+    "weight": "0.1",
+    "value": "20",
+    "obtained": "Ash Spawn",
+    "rarity": "",
+    "owned": 4
+  },
+  {
+    "name": "Poison Bloom",
+    "effects": [
+      "Damage Health"
+    ],
+    "weight": "0.3",
+    "value": "5",
+    "obtained": "Darkfall Cave",
+    "rarity": "",
+    "owned": 24
+  },
+  {
+    "name": "Crimson Nirnroot",
+    "effects": [
+      "Invisibility",
+      "Resist Magic"
+    ],
+    "weight": "0.2",
+    "value": "10",
+    "obtained": "Blackreach",
+    "rarity": "",
+    "owned": 10
+  },
+  {
+    "name": "Briar Heart",
+    "effects": [],
+    "weight": "0.5",
+    "value": "20",
+    "obtained": "Forsworn Leaders",
+    "rarity": "",
+    "owned": 4
+  },
+  {
+    "name": "Jarrin Root",
+    "effects": [],
+    "weight": "0.5",
+    "value": "10",
+    "obtained": "Dark Brotherhood quest",
+    "rarity": "",
+    "owned": 6
+  },
+  {
+    "name": "Chaurus Hunter Antennae",
+    "effects": [],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Chaurus Hunter, Chaurus Hunter Fledgling",
+    "rarity": "",
+    "owned": 3
   },
   {
     "name": "Vampire Dust",
@@ -379,64 +776,335 @@
     "value": "25",
     "obtained": "Vampires, the Silver Hand",
     "rarity": "",
-    "owned": 3
+    "owned": 16
   },
   {
-    "name": "Rock Warbler Egg",
+    "name": "Wheat",
     "effects": [
-      "Damage Stamina",
-      "Weakness to Magic"
+      "Restore Health",
+      "Damage Stamina Regen"
     ],
-    "weight": "0.5",
-    "value": "2",
-    "obtained": "Rock Warbler Nest",
+    "weight": "0.1",
+    "value": "5",
+    "obtained": "Grows on farms, containers",
     "rarity": "",
-    "owned": 3
+    "owned": 9
   },
   {
-    "name": "Hanging Moss",
+    "name": "Purple Mountain Flower",
     "effects": [],
-    "weight": "0.3",
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Mountain flower clumps",
+    "rarity": "",
+    "owned": 11
+  },
+  {
+    "name": "Felsaad Tern Feathers",
+    "effects": [
+      "Fortify Light Armor"
+    ],
+    "weight": "0.1",
+    "value": "15",
+    "obtained": "Felsaad Tern",
+    "rarity": "",
+    "owned": 13
+  },
+  {
+    "name": "Blisterwort",
+    "effects": [],
+    "weight": "0.2",
+    "value": "12",
+    "obtained": "Caves and dark areas",
+    "rarity": "",
+    "owned": 1
+  },
+  {
+    "name": "Nirnroot",
+    "effects": [],
+    "weight": "0.2",
+    "value": "10",
+    "obtained": "Near water",
+    "rarity": "",
+    "owned": 22
+  },
+  {
+    "name": "Beehive Husk",
+    "effects": [
+      "Fortify Destruction",
+      "Fortify Sneak"
+    ],
+    "weight": "1",
+    "value": "5",
+    "obtained": "Beehive",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "Grass Pod",
+    "effects": [
+      "Fortify Alteration",
+      "Ravage Magicka",
+      "Restore Magicka"
+    ],
+    "weight": "0.1",
     "value": "1",
-    "obtained": "Vegetated areas, hanging in caves, from buildings",
+    "obtained": "Tundras",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "Gleamblossom",
+    "effects": [
+      "Regenerate Health",
+      "Fear",
+      "Resist Magic"
+    ],
+    "weight": "0.1",
+    "value": "5",
+    "obtained": "Harvested in Darkfall Cave, Forgotten Vale",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "White Cap",
+    "effects": [
+      "Restore Magicka"
+    ],
+    "weight": "0.3",
+    "value": "0",
+    "obtained": "Mushroom clusters near caves or dungeons",
+    "rarity": "",
+    "owned": 16
+  },
+  {
+    "name": "Snowberries",
+    "effects": [
+      "Resist Frost",
+      "Resist Fire"
+    ],
+    "weight": "0.1",
+    "value": "4",
+    "obtained": "Snowberry bush, snowy areas",
     "rarity": "",
     "owned": 6
   },
   {
-    "name": "Human Flesh",
+    "name": "Mora Tapinella",
     "effects": [
-      "Paralysis",
-      "Damage Health"
-    ],
-    "weight": "0.3",
-    "value": "1",
-    "obtained": "Falmer Vampire dens",
-    "rarity": "",
-    "owned": 4
-  },
-  {
-    "name": "River Betty",
-    "effects": [
-      "Fortify Carry Weight",
-      "Damage Health"
-    ],
-    "weight": "0.3",
-    "value": "15",
-    "obtained": "Lakes, rivers, streams and fish barrels",
-    "rarity": "",
-    "owned": 15
-  },
-  {
-    "name": "Scaly Pholiota",
-    "effects": [
-      "Fortify Illusion",
-      "Regenerate Stamina",
-      "Weakness to Magic"
+      "Restore Magicka",
+      "Lingering Damage Health",
+      "Fortify Illusion"
     ],
     "weight": "0.3",
     "value": "4",
-    "obtained": "Dead birch trees",
+    "obtained": "Dead Trees",
+    "rarity": "",
+    "owned": 11
+  },
+  {
+    "name": "Emperor Parasol Moss",
+    "effects": [
+      "Fortify Two-Handed"
+    ],
+    "weight": "0.3",
+    "value": "1",
+    "obtained": "Hanging from Emperor Parasol around Tel Mithryn.",
+    "rarity": "",
+    "owned": 12
+  },
+  {
+    "name": "Trama Root",
+    "effects": [
+      "Weakness to Shock"
+    ],
+    "weight": "0.2",
+    "value": "1",
+    "obtained": "Harvested from ashen areas of Solstheim",
+    "rarity": "",
+    "owned": 9
+  },
+  {
+    "name": "Honeycomb",
+    "effects": [
+      "Fortify Block",
+      "Restore Stamina"
+    ],
+    "weight": "1",
+    "value": "5",
+    "obtained": "Beehive",
+    "rarity": "",
+    "owned": 21
+  },
+  {
+    "name": "Lavender",
+    "effects": [
+      "Fortify Conjuration",
+      "Fortify Stamina"
+    ],
+    "weight": "0.1",
+    "value": "1",
+    "obtained": "Outdoors in clumps",
+    "rarity": "",
+    "owned": 3
+  },
+  {
+    "name": "Burnt Spriggan Wood",
+    "effects": [
+      "Damage Magicka Regen"
+    ],
+    "weight": "0.5",
+    "value": "20",
+    "obtained": "Burnt Spriggans",
+    "rarity": "",
+    "owned": 13
+  },
+  {
+    "name": "Blue Mountain Flower",
+    "effects": [
+      "Restore Health"
+    ],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Mountain flower clumps",
     "rarity": "",
     "owned": 7
+  },
+  {
+    "name": "Butterfly Wing",
+    "effects": [
+      "Damage Magicka",
+      "Lingering Damage Stamina",
+      "Restore Health"
+    ],
+    "weight": "0.1",
+    "value": "3",
+    "obtained": "Monarch Butterfly",
+    "rarity": "",
+    "owned": 14
+  },
+  {
+    "name": "Powdered Mammoth Tusk",
+    "effects": [],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Giant Camps, Alchemy Laboratory of a Homestead",
+    "rarity": "",
+    "owned": 5
+  },
+  {
+    "name": "Netch Jelly",
+    "effects": [],
+    "weight": "0.5",
+    "value": "20",
+    "obtained": "Netch",
+    "rarity": "",
+    "owned": 13
+  },
+  {
+    "name": "Pearl",
+    "effects": [
+      "Restore Magicka",
+      "Restore Stamina",
+      "Fortify Block"
+    ],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Satchels; Alchemy Laboratory of a Homestead Pearl Oyster",
+    "rarity": "",
+    "owned": 13
+  },
+  {
+    "name": "Hagraven Claw",
+    "effects": [
+      "Fortify Enchanting",
+      "Resist Magic"
+    ],
+    "weight": "0.3",
+    "value": "20",
+    "obtained": "Hagraven",
+    "rarity": "",
+    "owned": 3
+  },
+  {
+    "name": "Orange Dartwing",
+    "effects": [],
+    "weight": "0.1",
+    "value": "1",
+    "obtained": "Hovering above water",
+    "rarity": "",
+    "owned": 5
+  },
+  {
+    "name": "Wisp Wrappings",
+    "effects": [
+      "Fortify Carry Weight",
+      "Restore Stamina"
+    ],
+    "weight": "0.1",
+    "value": "2",
+    "obtained": "Wispmother",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "Deathbell",
+    "effects": [
+      "Ravage Stamina",
+      "Weakness to Poison"
+    ],
+    "weight": "0.1",
+    "value": "4",
+    "obtained": "Wild, on planters",
+    "rarity": "",
+    "owned": 21
+  },
+  {
+    "name": "Skeever Tail",
+    "effects": [
+      "Damage Health",
+      "Damage Stamina Regen",
+      "Ravage Health"
+    ],
+    "weight": "0.2",
+    "value": "3",
+    "obtained": "Skeever",
+    "rarity": "",
+    "owned": 16
+  },
+  {
+    "name": "Abecean Longfin",
+    "effects": [
+      "Weakness to Frost",
+      "Fortify Restoration",
+      "Fortify Sneak"
+    ],
+    "weight": "0.5",
+    "value": "15",
+    "obtained": "Lakes, rivers, streams, fish barrels",
+    "rarity": "",
+    "owned": 2
+  },
+  {
+    "name": "Frost Salts",
+    "effects": [],
+    "weight": "0.3",
+    "value": "100",
+    "obtained": "Frost Atronach",
+    "rarity": "",
+    "owned": 11
+  },
+  {
+    "name": "Mudcrab Chitin",
+    "effects": [
+      "Restore Stamina",
+      "Resist Fire",
+      "Cure Disease"
+    ],
+    "weight": "0.3",
+    "value": "2",
+    "obtained": "Mudcrabs",
+    "rarity": "",
+    "owned": 20
   }
 ]
